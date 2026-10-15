@@ -1,0 +1,2 @@
+o=" ".isspace()
+print(o)
